@@ -7,6 +7,8 @@ function CSRPage() {
         <h1>CSR - Client Side Rendering</h1>
       </div>
 
+      
+
 
       <div>
 
