@@ -6,3 +6,7 @@ export async function getPosts() {
 
   return res.json();
 }
+
+
+
+
