@@ -1,3 +1,3 @@
-const host  = "https://jsonplaceholder.typicode.com/"
+const host = 'https://jsonplaceholder.typicode.com/';
 
-export const post = host + "posts"
+export const post = host + 'posts';
